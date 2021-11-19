@@ -1,6 +1,6 @@
 {
     "configVersion": 2,
-    "appIdentifier": "com.moutoncitrusmobile.mobile",
+    "appIdentifier": "com.moutonmobile.mobile",
     "appName": "MODI",
     "bundleName": {
         "main": "MoutonCitrusMob",
@@ -119,7 +119,7 @@
             "enabled": true
         }
     },
-    "appVersion": "2.0.0",
-    "buildNumber": 10,
+    "appVersion": "3.0.0",
+    "buildNumber": 11,
     "runtimeUrl": "https://modi.mendixcloud.com/"
 }
