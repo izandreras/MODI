@@ -114,9 +114,12 @@
         },
         "appCenterOTA": {
             "enabled": false
+        },
+        "nativeOTA": {
+            "enabled": true
         }
     },
     "appVersion": "1.0.0",
-    "buildNumber": 8,
+    "buildNumber": 9,
     "runtimeUrl": "https://modi.mendixcloud.com/"
 }
