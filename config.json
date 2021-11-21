@@ -119,7 +119,7 @@
             "enabled": true
         }
     },
-    "appVersion": "3.0.0",
-    "buildNumber": 11,
+    "appVersion": "3.0.1",
+    "buildNumber": 13,
     "runtimeUrl": "https://modi.mendixcloud.com/"
 }
